@@ -4,6 +4,15 @@
 
 </h2>
 
+## Etapa Anterior
+
+- [Extração de Dados](https://github.com/vcwild/wtp-extract)
+
+## Próximas Etapas
+
+- [Análise Exploratória](https://github.com/vcwild/wtp-eda)
+- [Modelagem de Séries Temporais](https://github.com/vcwild/wtp-model)
+
 # Apresentação <a name="ovr">
 
 ## Tratamento de Dados
