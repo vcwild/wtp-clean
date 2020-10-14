@@ -72,7 +72,7 @@ O script [cleaner](cleaner.py) processou e gerou logs nos seguintes conjuntos de
 ## Tratamento de Variáveis <a name="var">
 ### Limpeza de Caracteres Especiais <a name="schar">
 
-Durante o relato das observações das amostras efetuadas em laboratório, diversos registros foram documentados com caracteres especiais (e.g. “<”, “*”, “ ”, “_”). Esses caracteres precisam ser removidos do campo de registro, pois apesar de serem úteis para denotar observações pontuais ou de pouca significância, impedem que o campo seja classificado como numérico.
+Durante o relato das observações das amostras efetuadas em laboratório, diversos registros foram documentados com caracteres especiais (e.g. “<”, “*”, “ ”, “_”). Esses caracteres precisam ser removidos do campo de registro, pois apesar de serem úteis para denotar observações ou sinalizar valores muito pequenos, impedem que o campo seja classificado como numérico.
 
 <img src=".github/tidier.png" style="text-align: center" width="500"/>
 
